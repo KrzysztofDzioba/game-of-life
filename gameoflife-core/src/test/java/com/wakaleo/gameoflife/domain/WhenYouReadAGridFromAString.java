@@ -28,7 +28,9 @@ public class WhenYouReadAGridFromAString {
     @Test
     public void shouldBeAbleToReadAGridContainingASingleCellFromAString() {
         String gridContents = "*";
+        //
 
+        //
         Cell[][] expectedCells = {{LIVE_CELL}};
 
         GridReader gridReader = new GridReader();
