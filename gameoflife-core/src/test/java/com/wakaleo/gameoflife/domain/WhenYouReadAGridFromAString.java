@@ -29,7 +29,7 @@ public class WhenYouReadAGridFromAString {
     public void shouldBeAbleToReadAGridContainingASingleCellFromAString() {
         String gridContents = "*";
         //
-
+        //
         //
         Cell[][] expectedCells = {{LIVE_CELL}};
 
