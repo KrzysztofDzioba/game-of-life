@@ -35,6 +35,8 @@ public class WhenYouReadAGridFromAString {
         //
         //
         //
+        //
+        //
         Cell[][] expectedCells = {{LIVE_CELL}};
 
         GridReader gridReader = new GridReader();
